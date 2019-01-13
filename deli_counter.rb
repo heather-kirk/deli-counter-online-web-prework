@@ -1,7 +1,8 @@
 # Write your code here.
 
 def line(katz_deli)
-  if 
+  if count > 1 
+"Welcome #{name}. You are number #{number} in line."
 else count == 0
   puts "The line is currently empty."
 end
