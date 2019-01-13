@@ -2,7 +2,7 @@
 
 def line(katz_deli)
   count = 1 
-  if count > 1 
+  if count < 1 
 "The line is currently: "
 else count == 0
   puts "The line is currently empty."
