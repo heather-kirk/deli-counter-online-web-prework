@@ -1,12 +1,15 @@
 # Write your code here.
 
-def line 
-  
+def line(katz_deli)
+  if 
+else count == 0
   puts "The line is currently empty."
+end
 end
 
 def take_a_number(array,string)
   katz_deli = []
+  count = 1 
   string = "Welcome #{name}. You are number #{number} in line."
 end
 
