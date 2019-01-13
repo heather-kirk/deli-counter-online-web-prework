@@ -3,7 +3,7 @@
 def line(katz_deli)
   count = 1 
   if count > 1 
-"Welcome #{name}. You are number #{number} in line."
+"The line is currently: "
 else count == 0
   puts "The line is currently empty."
 end
